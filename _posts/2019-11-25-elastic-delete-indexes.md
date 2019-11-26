@@ -2,7 +2,7 @@
 layout: post
 title:  "Elastic delete indexes"
 date:   2019-11-25 13:10:10 +0200
-categories: elastic index indexes delete
+categories: elastic
 ---
 If you ever need to delete all the indexes, this may come in handy:
 {% highlight shell %}
