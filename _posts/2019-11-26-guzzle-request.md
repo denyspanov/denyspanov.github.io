@@ -2,7 +2,7 @@
 layout: post
 title:  "Guzzle request PHP"
 date:   2019-11-26 09:24:00 +0200
-categories: php guzzle request web
+categories: php
 ---
 POST:
 {% highlight php startinline=true %}
